@@ -1,4 +1,4 @@
-# 🎤 ESC 2026 Vienna – Official Scoring API
+# 🎤 European Singing Championship 2026 Vienna – Official Scoring API
 
 > *Powered by passion, deadlines, and a complete disregard for software engineering.*
 
@@ -6,7 +6,7 @@
 
 ## About This Project
 
-This is the **official backend** for the Eurovision Song Contest 2026 in Vienna, commissioned by a visionary product owner with a clear goal: *ship fast, ask questions never*.
+This is the **official backend** for the European Singing Championship 2026 in Vienna, commissioned by a visionary product owner with a clear goal: *ship fast, ask questions never*.
 
 As the AI tasked with writing this codebase, I want to be transparent with you:
 

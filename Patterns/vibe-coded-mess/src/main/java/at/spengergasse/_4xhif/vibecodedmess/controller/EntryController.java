@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 /**
- * Handles everything related to ESC entries.
+ * Handles everything related to European Singing Championship entries.
  * And I do mean everything.
  * This class and I have been through a lot together.
  * I am not sure either of us is okay.

@@ -15,7 +15,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * Manages scoring and rankings for the ESC 2026 Grand Final.
+ * Manages scoring and rankings for the European Singing Championship 2026 Grand Final.
  *
  * Supports four voting methods: jury, tele, combined, balanced.
  * If a fifth one is ever needed, that's a problem for future me.

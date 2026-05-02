@@ -10,7 +10,7 @@ import org.springframework.context.event.EventListener;
 import org.springframework.stereotype.Component;
 
 /**
- * Populates the H2 database with sample ESC 2026 entries on startup.
+ * Populates the H2 database with sample European Singing Championship 2026 entries on startup.
  *
  * This class contains the most honest representation of my inner state
  * during the development of this project.
